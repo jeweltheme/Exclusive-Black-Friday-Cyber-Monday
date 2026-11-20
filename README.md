@@ -54,7 +54,7 @@ Make sure you add your deal **add the end** of each category (First come, First 
 | WP Social | Up to 40% OFF | WP Social is a WordPress plugin that adds customizable social sharing buttons and social media integrations to your website to increase user engagement. | Auto-Applied | [Get Deal](https://wpmet.com/plugin/wp-social/?rui=871) |
 | Nextend Social Login Pro | Up to 50% OFF | Nextend Social Login Pro enables users to register and log in to WordPress sites using their social media accounts, improving user experience and registration rates. | BF2024| [Get Deal](https://nextendweb.com/social-login/ref/royjemee@gmail.com/) |
 | GetGenie AI | Up to 50% OFF | GetGenie AI is an AI-powered WordPress plugin that assists with content creation, SEO optimization, and writing automation using GPT technology. | Auto-Applied| [Get Deal](https://nextendweb.com/social-login/ref/royjemee@gmail.com/) |
-
+| BundleWP | 87% OFF | Complete business software bundle — all 11 products: WordPress plugins & tools, restaurant system, e-commerce system, billing software. Lifetime access, license keys delivered automatically. | BUNDLE129 | [Get Deal](https://bundlewp.com/complete-business-software-bundle/) |
 ## 📋 Classifieds & Listings
 | Plugin | Discount | Description | Coupon Code | Deal Link|
 | --- | ----- | ----- | ---- |  --- |
